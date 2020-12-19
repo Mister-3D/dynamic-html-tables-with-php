@@ -1,5 +1,6 @@
 # dynamic-html-tables-with-php
 Generating Dynamic HTML Tables with PHP
+
 This project shows you how to generate dynamic HTML tables by retrieving data from tables stored in a PHP MySQL Database irrespective of the table structure. 
 Each table generated will be displayed based on the structure of the table in the PHP MySQL Database where it is being retrieved from.
 
